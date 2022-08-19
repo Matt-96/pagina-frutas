@@ -34,7 +34,8 @@ section{
 
 section#intro {
     height: 100vh;
-    background: url(imagens/fundo.jpg);
+    background: url(imagens/fundo.jpg) fixed;
+
     opacity: 0.7;
 }
 section#intro div {
