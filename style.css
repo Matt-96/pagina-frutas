@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+section#morango h1 {
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 3em;
+    color:  black;
+    text-shadow: 4px 2px 1px  rgb(255, 5, 5);
+    position: relative;
+    top: 40vh;
+    border: 3px solid rgb(7, 184, 7);
+    display: inline;
+    border-radius: 100px;
+}
+
+section.normal {
+    padding-top: 30px;
+}
+
+.imagem#morango {
+    padding-top: 30px;
+    height: 100vh;
+    background: url(imagens/morango.jpg) no-repeat fixed;
+    background-size: cover;
+    
+    
+}
+
+div {
+    text-align: center;
+    
+}
+
+.normal {
+    width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    line-height: 1.2;
+    text-align: justify;
+    
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    padding-bottom: 20px;
+    color: rgb(219, 4, 4);
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.329);
+}
+
+li{
+    padding-bottom: 20px;
+}
+
+.imagem#banana {
+    padding-top: 30px;
+    height: 100vh;
+    background: url(imagens/banana-nova.jpg) no-repeat fixed center;
+    background-size: cover;
+    
+    
+}
+section#banana h1 {
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 3em;
+    color:  black;
+    text-shadow: 4px 2px 1px  rgb(221, 207, 8);
+    position: relative;
+    top: 40vh;
+    border: 3px solid rgb(0, 0, 0);
+    display: inline;
+    border-radius: 100px;
+}
+
+.imagem#uva {
+    padding-top: 30px;
+    height: 100vh;
+    background: url(imagens/uva.jpg) no-repeat fixed  center center;
+    background-size: 100%;
+    
+    
+}
+
+section#uva h1 {
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 3em;
+    color:  black;
+    text-shadow: 4px 2px 1px  purple;
+    position: relative;
+    top: 40vh;
+    border: 3px solid rgb(4, 158, 29);
+    display: inline;
+    border-radius: 100px;
+}
+
+.imagem#limao {
+    padding-top: 30px;
+    height: 100vh;
+    background: url(imagens/limao.jpg) no-repeat fixed center bottom;
+    background-size: 100%;
+    
+    
+}
+
+section#limao h1 {
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 3em;
+    color:  black;
+    text-shadow: 4px 2px 1px  rgb(0, 128, 6);
+    position: relative;
+    top: 40vh;
+    border: 3px solid rgb(4, 158, 29);
+    display: inline;
+    border-radius: 100px;
+}
+
+.imagem#laranja {
+    padding-top: 30px;
+    height: 100vh;
+    background: url(imagens/laranja.jpg) repeat fixed center center;
+    background-size: 100%;
+    
+    
+}
+
+section#laranja h1 {
+    background-color: rgba(255, 255, 255, 0.479);
+    padding: 20px;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 3em;
+    color:  black;
+    text-shadow: 4px 2px 1px  rgb(226, 140, 11);
+    position: relative;
+    top: 40vh;
+    border: 3px solid rgb(241, 115, 12);
+    display: inline;
+    border-radius: 100px;
+}
