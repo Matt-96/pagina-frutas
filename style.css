@@ -67,6 +67,7 @@ section#intro p{
     font-weight: 400;
     line-height: 1.3em;
     text-align: justify;
+    text-indent: 40px;
     max-height: 600px;
 }
 
