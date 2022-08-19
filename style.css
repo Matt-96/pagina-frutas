@@ -69,6 +69,10 @@ div {
     
 }
 
+.imagem {
+    background-size: 100vw;
+}
+
 h2 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
