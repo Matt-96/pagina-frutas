@@ -2,17 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap');
 * {
     margin: 0;
     padding: 0;
-    
-
 }
-
-
 
 section#morango h1 {
     background-color: rgba(255, 255, 255, 0.479);
@@ -32,9 +26,6 @@ section{
     
     min-width: 700px;
    font-size: 2.vw;
-   
-    
-
     
 }
 
@@ -44,19 +35,16 @@ section.normal {
         
 }
 
-
-
 section.imagem {
     width: 100%;
     
 }
+
 .imagem#morango {
     padding-top: 30px;
     height: 100vh;
     background: url(imagens/morango.jpg) no-repeat fixed;
     background-size: cover;
-    
-    
 }
 
 div {
@@ -72,7 +60,6 @@ div {
     font-weight: 400;
     line-height: 1.2em;
     text-align: justify;
-    
 }
 
 .imagem {
@@ -98,7 +85,6 @@ li{
     background: url(imagens/banana-nova.jpg) no-repeat fixed center;
     background-size: cover;
     
-    
 }
 section#banana h1 {
     background-color: rgba(255, 255, 255, 0.479);
@@ -119,8 +105,6 @@ section#banana h1 {
     height: 100vh;
     background: url(imagens/uva.jpg) no-repeat fixed  center center;
     background-size: cover;
-    
-    
 }
 
 section#uva h1 {
@@ -142,8 +126,6 @@ section#uva h1 {
     height: 100vh;
     background: url(imagens/limao.jpg) no-repeat fixed center top;
     background-size: cover;
-    
-    
 }
 
 section#limao h1 {
@@ -165,8 +147,6 @@ section#limao h1 {
     height: 100vh;
     background: url(imagens/laranja.jpg) no-repeat fixed center center;
     background-size: cover;
-    
-    
 }
 
 section#laranja h1 {
@@ -181,4 +161,16 @@ section#laranja h1 {
     border: 3px solid rgb(241, 115, 12);
     display: inline;
     border-radius: 100px;
+}
+
+footer {
+    background-color: white;
+}
+
+h3 {   
+    background-color: rgba(0, 0, 0, 0.555);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 1px 2px black;
 }
