@@ -62,7 +62,7 @@ section#intro h1{
 
 section#intro p{
     padding: 10px;
-    
+    height: 100vh;
     text-align: justify;
 }
 
