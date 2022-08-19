@@ -8,6 +8,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 
 }
 
@@ -28,7 +29,10 @@ section#morango h1 {
 }
 
 section{
+    
     min-width: 700px;
+
+    
 }
 
 section.normal {
@@ -38,9 +42,7 @@ section.normal {
     background-size: cover;    
 }
 
-section.normal p {
-    word-wrap: 650px;
-}
+
 
 section.imagem {
     width: 100%;
