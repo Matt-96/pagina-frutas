@@ -35,7 +35,7 @@ section{
 section#intro {
     height: 100vh;
     background: url(imagens/fundo.jpg) fixed;
-
+    padding-top: 25px;
     opacity: 0.7;
 }
 section#intro div {
