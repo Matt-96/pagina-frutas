@@ -31,6 +31,8 @@ section#morango h1 {
 section{
     
     min-width: 700px;
+   font-size: 2.vw;
+   
     
 
     
@@ -38,16 +40,15 @@ section{
 
 section.normal {
     padding-top: 30px;
-    font-size: 2.5vh;
     width: 660px;
-    margin: 0 auto;
-    background-size: auto;    
+        
 }
 
 
 
 section.imagem {
     width: 100vw;
+    
 }
 .imagem#morango {
     padding-top: 30px;
@@ -64,7 +65,7 @@ div {
 }
 
 .normal {
-   
+    margin: 0 auto;
     min-width: 600px;
     padding: 30px;
     font-family: 'Montserrat', sans-serif;
