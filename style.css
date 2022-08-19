@@ -35,12 +35,15 @@ section.normal {
     padding-top: 30px;
     font-size: 2.5vh;
     width: 100vh;
-    background-size: cover;
-    
+    background-size: cover;    
+}
+
+section.normal p {
+    word-wrap: 650px;
 }
 
 section.imagem {
-    width: 100vw;
+    width: 100%;
 }
 .imagem#morango {
     padding-top: 30px;
@@ -133,7 +136,7 @@ section#uva h1 {
 .imagem#limao {
     padding-top: 30px;
     height: 100vh;
-    background: url(imagens/limao.jpg) no-repeat fixed center bottom;
+    background: url(imagens/limao.jpg) no-repeat fixed center top;
     background-size: cover;
     
     
