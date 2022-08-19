@@ -28,7 +28,7 @@ section#morango h1 {
 }
 
 section{
-    min-width: 650px;
+    min-width: 700px;
 }
 
 section.normal {
@@ -57,20 +57,19 @@ div {
 }
 
 .normal {
-    width: 800px;
+    width: 100%;
     min-width: 600px;
     padding: 30px;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 1.2em;
     line-height: 1.2;
     text-align: justify;
     
 }
 
 .imagem {
-    background-size: 100vw;
+    background-size: 100%;
 }
 
 h2 {
