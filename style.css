@@ -52,6 +52,7 @@ div {
 }
 
 section.normal {
+    width: 60vw;
     margin: 0 auto;
     padding: 30px;
     font-family: 'Montserrat', sans-serif;
